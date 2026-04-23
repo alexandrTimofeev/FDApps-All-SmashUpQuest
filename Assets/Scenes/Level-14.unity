@@ -1370,10 +1370,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3649955245753681180}
     m_Modifications:
-    - target: {fileID: 270191715931746003, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 337515034056674484, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.3
@@ -1422,10 +1418,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2.3
       objectReference: {fileID: 0}
-    - target: {fileID: 2825500812435687343, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 2864717781261038051, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.3
@@ -1438,22 +1430,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2.3
       objectReference: {fileID: 0}
-    - target: {fileID: 2974300844783255069, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
-    - target: {fileID: 3548745944415795481, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 3618203908037099881, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_Name
       value: ObstacleLevel-1 (1)
       objectReference: {fileID: 0}
-    - target: {fileID: 4511145591389844378, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 5268785427499611565, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -1498,10 +1478,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5508781482035360732, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 6040264006590458741, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.3
@@ -1514,14 +1490,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2.3
       objectReference: {fileID: 0}
-    - target: {fileID: 6107907839940282642, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
-    - target: {fileID: 6246521699231899192, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 7012966985767681215, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.3
@@ -1546,10 +1514,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2.3
       objectReference: {fileID: 0}
-    - target: {fileID: 8288080102205043636, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 8600344731902607881, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.3
@@ -1562,10 +1526,6 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 2.3
       objectReference: {fileID: 0}
-    - target: {fileID: 8623610810934277189, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: -2890586754446022154, guid: a72dbc91fd235a54ca60cd43f486daee, type: 3}
     - target: {fileID: 8730908678347602875, guid: 05bd352b04dc34d1996268c5257a61ba, type: 3}
       propertyPath: m_LocalScale.x
       value: 2.3
