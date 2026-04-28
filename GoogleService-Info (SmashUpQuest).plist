@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCEWH-4XDxg8AT5ePJ7iSY_tYi4MJkQDNA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1015645161231</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.snk.smashupquest</string>
+	<key>PROJECT_ID</key>
+	<string>smash-up-quest-e311f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smash-up-quest-e311f.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1015645161231:ios:d5e0ff66e8537579f2a07a</string>
+</dict>
+</plist>
